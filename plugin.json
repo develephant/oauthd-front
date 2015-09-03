@@ -1,6 +1,6 @@
 {
-	"name": "front",
-	"description": "Provides you with an interface to manage your oauthd instance",
+	"name": "client",
+	"description": "Provides you with a client interface to manage oauthd",
 	"main": "index.js",
 	"type": "global-interface"
 }
